@@ -1,0 +1,8 @@
+.Char {
+    border: 1px black solid;
+    display: inline-block;
+    margin: 8px;
+    padding: 8px;
+    text-align:center;
+    cursor: pointer;
+}

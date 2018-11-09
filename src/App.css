@@ -1,29 +1,10 @@
 html {
   height: 100%;
-  width: 100%;
 }
 body {
   height: inherit;
-  width:inherit;
-  display: flex;
-  margin: 0;
-}
-div {
-  display: flex;
-  width:inherit;
-  height: inherit;
 }
 .App {
-  display: flex;
-  height: 50%;
-  width: 50%;
-  flex-direction: column;
   text-align: center;
-  margin: auto;
-}
-.App > input,p {
-  margin: auto;
-}
-.App > input {
-  border: 1px blue solid;
+  margin-top: 120px;
 }
